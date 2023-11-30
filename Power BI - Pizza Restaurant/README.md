@@ -1,12 +1,6 @@
 ## **Σχετικά με το σύνολο δεδομένων**
 
-Τα δεδομένα μεταφορτώθηκαν από το ***kaggle*** 
-
-[https://www.kaggle.com/datasets/shilongzhuang/pizza-sales]: https://www.kaggle.com/datasets/shilongzhuang/pizza-sales	"δασ"
-
-
-
- και αφορούν τις πωλήσεις προϊόντων σε μια πιτσαρία.
+Τα δεδομένα μεταφορτώθηκαν από το [Kaggle](https://www.kaggle.com/datasets/shilongzhuang/pizza-sales) και αφορούν τις πωλήσεις σε μια πιτσαρία.
 
 
 
@@ -29,42 +23,22 @@
 
 
 
-**🍕** **The Pizza Challenge**
+**Αποτελέσματα**
 
-For the Maven Pizza Challenge, you’ll be playing the role of a BI Consultant hired by Plato's Pizza, a Greek-inspired pizza place in New Jersey. You've been hired to help the restaurant use data to improve operations, and just received the following note:
+Για τη μελέτη του θέματος κατασκευάστηκαν με το Power BI γραφήματα που απεικονίζουν:
 
-Welcome aboard, we're glad you're here to help!
+1. τα κέρδη ανά τρίμηνο
 
-Things are going OK here at Plato's, but there's room for improvement. We've been collecting transactional data for the past year, but really haven't been able to put it to good use. Hoping you can analyze the data and put together a report to help us find opportunities to drive more sales and work more efficiently.
+2. τα κέρδη ανά κατηγορία και κωδικό προϊόντος
 
-Here are some questions that we'd like to be able to answer:
+3. τις συνολικές πωλήσεις και τα κέρδη ανά κατηγορία προϊόντος
 
-\1.   What days and times do we tend to be busiest?
-
-\2.   How many pizzas are we making during peak periods?
-
-\3.   What are our best and worst-selling pizzas?
-
-\4.   What's our average order value?
-
-\5.   How well are we utilizing our seating capacity? (we have 15 tables and 60 seats)
-
-That's all I can think of for now, but if you have any other ideas I'd love to hear them – you're the expert!
-
-Thanks in advance,
-
-Mario Maven (Manager, Plato's Pizza)
+   κ.α.
 
 
 
-**Colllection Methodology**
+**Σημείωση**
 
-The public dataset is completely available on the Maven Analytics website platform where it stores and consolidates all available datasets for analysis in the Data Playground. The specific individual datasets at hand can be obtained at this link below: https://www.mavenanalytics.io/blog/maven-pizza-challenge
-
-📌I set up the data model to include all the related instances in one single table so obtaining data for analysis is made easier. 
-
-**My Inspiration**
-
-Complete details were also provided about the challenge in the link if you are interested. The purpose of uploading here is to conduct exploratory data analysis about the dataset beforehand with the use of Pandas and data visualization libraries in order to have a comprehensive review of the data and translate my findings and insights in the form of a single page visualization.
+To σύνολο δεδομένων διατίθεται από την [Maven Analystics](https://www.mavenanalytics.io/blog/maven-pizza-challenge)
 
  
