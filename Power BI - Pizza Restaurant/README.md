@@ -17,20 +17,20 @@
 - `order_details_id`: αριθμός (κωδικός) προϊόντος στην κάθε παραγγελία
 - `pizza_id`: κωδικός προϊόντος
 - `quantity`: ποσότητα κάθε προϊόντος στην παραγγελία
-- `order_date`: Ημέρα παραγγελίας
-- `order_time`: Ώρα παραγγελίας
-- `unit_price`: Τιμή του προϊόντος σε USD
-- `total_price`: Συνολική τιμή (`unit_price` * `quantity`)
-- `pizza_size`: Μέγεθος προϊόντος (Small, Medium, Large, X-Large ή XX-Large)
-- `pizza_type`: Κατηγορία στην οποία ανήκει το προϊόν (Classic, Supreme, Chicken ή Veggie)
-- `pizza_ingredients`: Απαιτούμενα υλικά για την παρασκευή του προϊόντος
-- `pizza_name`: Όνομα προϊόντος
+- `order_date`: ημέρα παραγγελίας
+- `order_time`: ώρα παραγγελίας
+- `unit_price`: τιμή του προϊόντος σε USD
+- `total_price`: συνολική τιμή (`unit_price` * `quantity`)
+- `pizza_size`: μέγεθος προϊόντος (Small, Medium, Large, X-Large ή XX-Large)
+- `pizza_type`: κατηγορία στην οποία ανήκει το προϊόν (Classic, Supreme, Chicken ή Veggie)
+- `pizza_ingredients`: απαιτούμενα υλικά για την παρασκευή του προϊόντος
+- `pizza_name`: όνομα προϊόντος
 
 
 
 #### **Αποτελέσματα**
 
-Για τη μελέτη του θέματος κατασκευάστηκαν με το Power BI γραφήματα που απεικονίζουν:
+Για τη μελέτη του προβλήματος κατασκευάστηκαν, με το Power BI, γραφήματα που απεικονίζουν:
 
 1. τα κέρδη ανά τρίμηνο
 
