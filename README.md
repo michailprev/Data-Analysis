@@ -1,6 +1,6 @@
 # Data Analysis
 
-This `repository` contains some`case studies` projects.
+This `repository` contains some `case studies` projects.
 
 
 
