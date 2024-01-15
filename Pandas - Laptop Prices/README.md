@@ -6,7 +6,7 @@
 
 #### About the dataset
 
-The data was downloaded from Kaggle](https://www.kaggle.com/datasets/ehtishamsadiq/uncleaned-laptop-price-dataset) and concerns the selling prices of laptop computers.
+The data was downloaded from [Kaggle](https://www.kaggle.com/datasets/ehtishamsadiq/uncleaned-laptop-price-dataset) and concerns the selling prices of laptop computers.
 
 
 
