@@ -1,58 +1,50 @@
 
 
-> ### [Αρχείο κώδικα](https://github.com/michailprev/Data-Analysis/blob/main/Pandas%20-%20Laptop%20Prices/laptops-notebook.ipynb)
+> ### [Notebook](https://github.com/michailprev/Data-Analysis/blob/main/Pandas%20-%20Laptop%20Prices/laptops-notebook.ipynb)
 
 
 
-#### Σχετικά με το σύνολο δεδομένων
+#### About the dataset
 
-Τα δεδομένα μεταφορτώθηκαν από το [Kaggle](https://www.kaggle.com/datasets/ehtishamsadiq/uncleaned-laptop-price-dataset) και αφορούν τις τιμές πώλησης υπολογιστών τύπου *laptop*.
-
-
-
-##### **Περιεχόμενα**
-
-Το σύνολο δεδομένων αποτελείται από 11 μεταβλητές:
-
-- `Company`: κατασκευαστής υπολογιστή
-- `TypeName`: τύπος υπολογιστή (Ultrabook, Notebook. Netbook ...)
-- `Inches`: μέγεθος οθόνης
-- `ScreenResolution`: ανάλυση οθόνης
-- `Cpu`: μοντέλο και ταχύτητα επεξεργαστή
-- `Ram`: μέγεθος μνήμης
-- `Memory`: τύπος και μέγεθος αποθηκευτικού μέσου
-- `Gpu`: μοντέλο κάρτας γραφικών
-- `OpSys`: λειτουργικό σύστημα
-- `Weight`: βάρος
-- `Price`: τιμή (σε ρούπια Ινδίας)
+The data was downloaded from Kaggle](https://www.kaggle.com/datasets/ehtishamsadiq/uncleaned-laptop-price-dataset) and concerns the selling prices of laptop computers.
 
 
 
-#### Διαδικασία
+##### **Description**
 
-Για την προ-επεξεργασία των δεδομένων πραγματοποιήθηκαν, με τη χρήση της βιβλιοθήκης `pandas`, οι παρακάτω διαδικασίες:
+The dataset consists of 11 variables:
 
-- ***χειρισμός χαμένων τιμών (missing values)***
-
-  εντοπισμός και αφαίρεση των παρατηρήσεων με χαμένες τιμές από το σύνολο των δεδομένων
-
-- ***έλεγχος της κωδικοποίησης δεδομένων ()***
-
-  έλεγχος και διόρθωση των στοιχείων ώστε οι κατηγορικές μεταβλητές να έχουν κοινή κωδικοποίηση
-
-- ***έλεγχος του τύπου δεδομένων των μεταβλητών***
-
-  διόρθωση του τύπου δεδομένων για τις στήλες που περιέχουν αριθμητικά στοιχεία
-
-- ***δημιουργία νέων στηλών***
-
-  δημιουργία νέων στηλών δεδομένων (από τις ήδη υπάρχουσες) για την καλύτερη ανάλυση και μελέτη των δεδομένων
+- `Company`: computer manufacturer
+- `TypeName`: computer type (Ultrabook, Notebook. Netbook ...)
+- `Inches`: screen size
+- `ScreenResolution`: screen resolution
+- `Cpu`: model and CPU speed
+- `Ram`: RAM capacity
+- `Memory`: Storage type and capacity
+- `Gpu`: GPU model
+- `OpSys`: operating system
+- `Weight`: weight
+- `Price`: price (Indian Rupees)
 
 
 
-***αποτελέσματα***
+#### Process
 
-Στη συνέχεια (ενδεικτικά) παρουσιάζονται κάποια συγκεντρωτικά στοιχεία όπως μέση τιμή πώλησης ανά κατασκευαστή και τύπο υπολογιστή. Περαιτέρω ανάλυση των στοιχείων θα πραγματοποιηθεί με το λογισμικό ***PowerBI***.
+The data preprocessing flow includes the following steps:
+
+- ***handle missing values***: identify and remove entries with missing values from the dataset
+
+- ***validate data***: validate consistency of data 
+
+- ***check data type of variables***: correct data type of numerical variables
+
+- ***create new columns***: create new columns for better analysis of dataset
+
+
+
+***Results***
+
+Additional data analysis will be performed with the **PowerBI** visualization tool.
 
 
 
