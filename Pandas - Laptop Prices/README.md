@@ -1,6 +1,6 @@
 
 
-> ### [Notebook](https://github.com/michailprev/Data-Analysis/blob/main/Pandas%20-%20Laptop%20Prices/laptops-notebook.ipynb)
+> ### [Notebook](https://github.com/michailprev/Data-Analysis/blob/main/Pandas%20-%20Laptop%20Prices/laptop_price__notebook.ipynb)
 
 
 
