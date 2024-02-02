@@ -1,4 +1,4 @@
-> ### [Dashboards](https://github.com/michailprev/Data-Analysis/blob/main/Power%20BI%20-%20Retail%20Shipping/%20Dashboard%20-%20Retail%20Shipping.pdf)
+> ### [Dashboards](https://github.com/michailprev/Data-Analysis/blob/main/Retail%20Shipping/Dashboard%20-%20Retail%20Shipping.pdf)
 
 
 
