@@ -4,7 +4,7 @@
 
 #### About the dataset
 
-The dataset, encompassing sales information from a coffee shop, has been sourced from [Maven](https://mavenanalytics.io/data-playground?search=Coffee Shop).
+The dataset, encompassing sales information from a coffee shop, has been sourced from [Maven](https://mavenanalytics.io/data-playground?search=Coffee%20Shop).
 
 
 
