@@ -8,7 +8,7 @@
 
 > The dataset contains information about retail shipping. The main objectives are tracking the delivery times and monitoring remitted payments.
 
-### :coffee: [Coffee Shop Sales](https://github.com/michailprev/Data-Analysis/tree/main/Retail%20Shipping)
+### :coffee: [Coffee Shop Sales](https://github.com/michailprev/Data-Analysis/tree/main/Coffee%20Shop%20Sales)
 
 > The dataset contains transaction records from a coffee shop in New York City. The main objectives are tracking the total sales revenue over time and monitoring daily workload of beverage preparation.
 

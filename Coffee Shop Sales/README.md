@@ -1,4 +1,4 @@
-> ### [Dashboard](https://github.com/michailprev/Data-Analysis/blob/main/Retail%20Shipping/Dashboard%20-%20Retail%20Shipping.pdf)
+> ### [Dashboard](https://github.com/michailprev/Data-Analysis/blob/main/Coffee%20Shop%20Sales/Dashboard%20-%20Coffee%20Shop%20Sales.pdf)
 
 
 
