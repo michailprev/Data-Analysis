@@ -1,5 +1,5 @@
 > ### [Dashboard - Trading Analysis of Shipments](https://github.com/michailprev/Data-Analysis/blob/main/Retail%20Shipping/Dashboard%20-%20Trading%20Analysis%20of%20Shipments.png)
->
+
 > ### [Dashboard - Shipments Status](https://github.com/michailprev/Data-Analysis/blob/main/Retail%20Shipping/Dashboard%20-%20Shipments%20Status.png)
 
 
