@@ -1,4 +1,6 @@
-> ### [Dashboards](https://github.com/michailprev/Data-Analysis/blob/main/Retail%20Shipping/Dashboard%20-%20Retail%20Shipping.pdf)
+> ### [Dashboard - Trading Analysis of Shipments](https://github.com/michailprev/Data-Analysis/blob/main/Retail%20Shipping/Dashboard%20-%20Trading%20Analysis%20of%20Shipments.png)
+>
+> ### [Dashboard - Shipments Status](https://github.com/michailprev/Data-Analysis/blob/main/Retail%20Shipping/Dashboard%20-%20Shipments%20Status.png)
 
 
 
@@ -13,6 +15,4 @@ The dataset contains information of retail shipping from two courier companies. 
 
 
 
-
-##### 
 
