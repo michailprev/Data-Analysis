@@ -16,7 +16,7 @@ The dataset contains information of retail shipping from two courier companies. 
 
 # Description of Software
 
-![test](https://github.com/michailprev/Data-Analysis/tree/main/Retail%20Shipping/slides/Slide1.PNG)
+![](./slides/Slide1.PNG)
 
 
 
