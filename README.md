@@ -2,11 +2,19 @@
 
 
 
+### :postbox: [**E-Commerce Co-Pilot**](https://github.com/michailprev/Data-Analysis/tree/main/Retail%20Shipping): an Automated Order Processing & Financial Reconciliation Software
+
+> E-Commerce Co-Pilot is a comprehensive software solution designed to  enhance online business operations, covering all aspects from order  processing and delivery to financial reconciliation. Its advanced  features streamline and automate the e-commerce process, simplifying  complex tasks and improving efficiency. 
+
+
+
+
+
+
+
+
+
 ## :bar_chart: Power BI
-
-### :postbox: [Retail Shipping](https://github.com/michailprev/Data-Analysis/tree/main/Retail%20Shipping)
-
-> The dataset contains information about retail shipping. The main objectives are tracking the delivery times and monitoring remitted payments.
 
 ### :coffee: [Coffee Shop Sales](https://github.com/michailprev/Data-Analysis/tree/main/Coffee%20Shop%20Sales)
 
