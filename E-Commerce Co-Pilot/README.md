@@ -4,7 +4,7 @@
 
 > Tools utilized in this project
 >
-> <img src="./img/tools.PNG" alt="Overview"  />
+> <img src="./img/tools.PNG">
 
 
 
