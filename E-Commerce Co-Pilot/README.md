@@ -1,12 +1,10 @@
 #  **E-Commerce Co-Pilot** 
 
-##### *an Automated Order Processing & Financial Reconciliation Software*
-
 ***E-Commerce Co-Pilot*** is a comprehensive software solution designed to  enhance online business operations, covering all aspects from order  processing and delivery to financial reconciliation. Its advanced  features streamline and automate the e-commerce process, simplifying  complex tasks and improving efficiency. 
 
 > Tools utilized in this project
 >
-> <img src="./img/tools.png">
+> <img src="./img/tools.png" style="zoom: 80%;" >
 
 
 
