@@ -1,8 +1,4 @@
-# Data Analysis
-
-
-
-### :postbox: [**E-Commerce Co-Pilot**](https://github.com/michailprev/Data-Analysis/tree/main/E-Commerce%20Co-Pilot): an Automated Order Processing & Payment Validation Software
+# :postbox: [**E-Commerce Co-Pilot**](https://github.com/michailprev/Data-Analysis/tree/main/E-Commerce%20Co-Pilot): an Automated Order Processing & Payment Validation Software
 
 > **E-Commerce Co-Pilot** is a comprehensive software solution designed to enhance online business operations, covering all aspects from order processing and delivery to payment validation. Its advanced features streamline and automate the e-commerce process, simplifying complex tasks and improving efficiency. 
 
@@ -29,8 +25,4 @@
 > The dataset contains information about laptop computer specifications and selling price. The data preprocessing was performed using **Python** and the ***pandas*** library.
 
 
-
-------
-
-*More case studies will be submitted to this `repository` soon ...*
 
