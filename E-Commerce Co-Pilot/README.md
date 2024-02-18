@@ -2,29 +2,35 @@
 
  **E-Commerce Co-Pilot**: *an Automated Order Processing & Financial Reconciliation Software*
 
+> Tools utilized in this project
+>
+> <img src="./img/tools.PNG" alt="Overview"  />
+
+
+
 
 
 > *Overview*
 
-![Overview](./slides/Slide1.PNG)
+![Overview](./img/Slide1.PNG)
 
 
 
 > *Order Processing*
 
-![](./slides/Slide2.PNG)
+![](./img/Slide2.PNG)
 
 
 
 > *Monitoring Payments*
 
-![](./slides/Slide3.PNG)
+![](./img/Slide3.PNG)
 
 
 
 > *Tracking Delivery Status*
 
-![](./slides/Slide4.PNG)
+![](./img/Slide4.PNG)
 
 
 
@@ -32,7 +38,7 @@
 
 #### Monitoring remitted payments 
 
-![](/Dashboard%20-%20Trading%20Analysis%20of%20Shipments.png)
+![](./Dashboard%20-%20Trading%20Analysis%20of%20Shipments.png)
 
 > *link*: [Dashboard - Trading Analysis of Shipments](./Dashboard%20-%20Trading%20Analysis%20of%20Shipments.png)
 
