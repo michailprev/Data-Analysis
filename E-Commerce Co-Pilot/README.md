@@ -30,17 +30,17 @@
 
 ## Results
 
-> ### [Dashboard - Trading Analysis of Shipments](./Dashboard%20-%20Trading%20Analysis%20of%20Shipments.png)
+#### Monitoring remitted payments 
 
-> ### [Dashboard - Shipments Status](./Dashboard%20-%20Shipments%20Status.png)
+![](/Dashboard%20-%20Trading%20Analysis%20of%20Shipments.png)
+
+> *link*: [Dashboard - Trading Analysis of Shipments](./Dashboard%20-%20Trading%20Analysis%20of%20Shipments.png)
 
 
 
-**About the dataset**
+#### Tracking the delivery status
 
-The dataset contains information of retail shipping from two courier companies. The main objectives of the these dashboards encompass two key aspects :
+![](./Dashboard%20-%20Shipments%20Status.png)
 
-- Tracking the delivery times of each shipment, visualized effectively through a Gantt Chart
-
-- Monitoring remitted payments, including remittance dates and corresponding sales amounts, to enhance financial oversight and performance analysis of the courier services
+> *link:*[Dashboard - Shipments Status](./Dashboard%20-%20Shipments%20Status.png)
 
