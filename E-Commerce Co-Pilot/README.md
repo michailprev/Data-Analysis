@@ -10,25 +10,25 @@
 
 
 
-> *Overview*
+### *Overview*
 
 ![Overview](./img/Slide1.PNG)
 
 
 
-> *Order Processing*
+### *Order Processing*
 
 ![](./img/Slide2.PNG)
 
 
 
-> *Monitoring Payments*
+### *Monitoring Payments*
 
 ![](./img/Slide3.PNG)
 
 
 
-> *Tracking Delivery Status*
+### *Tracking Delivery Status*
 
 ![](./img/Slide4.PNG)
 
@@ -40,13 +40,11 @@
 
 ![](./Dashboard%20-%20Trading%20Analysis%20of%20Shipments.png)
 
-> *link*: [Dashboard - Trading Analysis of Shipments](./Dashboard%20-%20Trading%20Analysis%20of%20Shipments.png)
-
 
 
 #### Tracking the delivery status
 
 ![](./Dashboard%20-%20Shipments%20Status.png)
 
-> *link:*[Dashboard - Shipments Status](./Dashboard%20-%20Shipments%20Status.png)
+
 
