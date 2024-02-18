@@ -18,4 +18,6 @@ The dataset contains information of retail shipping from two courier companies. 
 
 # Description of Software
 
-![Slide1](.\slides\Slide1.PNG)
+![](./slides/Slide1.PNG)
+
+
