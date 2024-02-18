@@ -2,9 +2,9 @@
 
 
 
-### :postbox: [**E-Commerce Co-Pilot**](https://github.com/michailprev/Data-Analysis/tree/main/E-Commerce%20Co-Pilot): an Automated Order Processing & Financial Reconciliation Software
+### :postbox: [**E-Commerce Co-Pilot**](https://github.com/michailprev/Data-Analysis/tree/main/E-Commerce%20Co-Pilot): an Automated Order Processing & Payment Validation Software
 
-> **E-Commerce Co-Pilot** is a comprehensive software solution designed to  enhance online business operations, covering all aspects from order  processing and delivery to financial reconciliation. Its advanced  features streamline and automate the e-commerce process, simplifying  complex tasks and improving efficiency. 
+> **E-Commerce Co-Pilot** is a comprehensive software solution designed to enhance online business operations, covering all aspects from order processing and delivery to payment validation. Its advanced features streamline and automate the e-commerce process, simplifying complex tasks and improving efficiency. 
 
 
 
